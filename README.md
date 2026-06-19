@@ -1,2 +1,1 @@
-# Job-portal-
-A MERN Stack Job Portal for job seekers and recruiters to post, search, and manage job opportunities efficiently
+Job Portal is a modern recruitment platform developed with the MERN Stack. It allows employers to post job vacancies, review applications, and manage hiring processes. Job seekers can create accounts, upload resumes, search for jobs, and apply directly through the platform. The project focuses on providing a seamless and user-friendly hiring experience.
